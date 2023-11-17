@@ -23,9 +23,4 @@
     </None>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="controller\" />
-    <Folder Include="view\" />
-  </ItemGroup>
-
 </Project>
